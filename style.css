@@ -41,3 +41,20 @@ footer{
     text-align: center;
     padding: 10px;
 }
+footer{
+    text-align: center;
+    padding: 50px;
+    font-weight: bold;
+}
+main{
+    padding: 50px;
+    text-align: center;
+}
+.contact{
+    margin: 25px;
+    text-align: center;
+}
+tr,table{
+    padding: 50px;
+    font-weight: bold;
+}
